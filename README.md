@@ -1,3 +1,7 @@
+A simple React app that generates memes using images fetched from a public API. Users can input their own top and bottom text to customize the meme.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
